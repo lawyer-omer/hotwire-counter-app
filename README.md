@@ -1,24 +1,5 @@
-# README
+# Basic apple counter app via Hotwire
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![Demo](https://res.cloudinary.com/avomeraydin/image/upload/v1663941254/ezgif-2-efec86406a_hk3zvl.gif "Demo")
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
