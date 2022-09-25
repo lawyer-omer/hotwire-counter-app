@@ -2,6 +2,6 @@
 
 https://sneaker-app-omer.herokuapp.com/
 
-![Demo](https://res.cloudinary.com/avomeraydin/image/upload/v1663941254/ezgif-2-efec86406a_hk3zvl.gif "Demo")
+![Demo](https://res.cloudinary.com/avomeraydin/image/upload/v1664118776/ezgif.com-gif-maker_muyavz.gif "Demo")
 
 
